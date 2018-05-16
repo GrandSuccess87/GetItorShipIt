@@ -6,4 +6,4 @@ Google Maps, Walmart, and eBay APIs are used for this app.
 
 Technologies and frameworks include: HTML5, CSS3, Bootstrap, JQuery, Javascript, Firebase, business logic.
 
-You can view the live application <a href="http://quintessacanderson.com/"> here. </a>
+You can view the live application <a href="http://quintessacanderson.com/"> HERE.</a>
